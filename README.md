@@ -4,8 +4,10 @@
 
 
 # Spark with Pulsar 
-1. https://medium.com/@tspann/building-applications-with-apache-spark-and-apache-pulsar-87a9611f0fd9
-2. https://github.com/tspannhw/FLiPS-SparkOnPulsar/
+1. https://github.com/streamnative/pulsar-spark
+2. https://github.com/yjshen/spark-connector-test
+3. https://medium.com/@tspann/building-applications-with-apache-spark-and-apache-pulsar-87a9611f0fd9
+4. https://github.com/tspannhw/FLiPS-SparkOnPulsar/
 
 
 # Courses 
